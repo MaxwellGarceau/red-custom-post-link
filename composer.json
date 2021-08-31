@@ -1,0 +1,14 @@
+{
+    "name": "garceau/red-custom-post-link",
+    "autoload": {
+        "psr-4": {
+            "Garceau\\Red_Custom_Post_Link\\": "src/"
+        }
+    },
+    "require": {    
+        "pablo-sg-pacheco/wp-namespace-autoloader": "dev-master"
+    },
+    "config": {
+        "preferred-install": "dist"
+    }
+}
